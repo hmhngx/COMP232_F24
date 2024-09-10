@@ -1,7 +1,6 @@
 package recursion;
 
 import java.util.ArrayList;
-// import java.util.List;
 
 public class MazePaths {
     // Initialize a string direction which represents all
@@ -63,8 +62,8 @@ public class MazePaths {
     public static void main(String[] args)
     {
         int[][] maze = { { 1, 0, 0, 0 },
-                         { 1, 0, 0, 1 },
-                         { 1, 1, 0, 0 },
+                         { 1, 1, 0, 1 },
+                         { 0, 1, 0, 0 },
                          { 0, 1, 1, 1 } };
 
         int n = maze.length;
