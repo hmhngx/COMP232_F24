@@ -38,6 +38,7 @@ public class CountX {
 	
     public static void main(String[] args) {
         System.out.println(countX("axbxc"));
+//        System.out.println("abc".substring(1));
     }
     
     @Test
@@ -60,5 +61,6 @@ public class CountX {
 		assertEquals("Incorrect result with x on beginning and end.", 5,
 				countX("xabxcxxdx"));
 	}
+
 }
 
