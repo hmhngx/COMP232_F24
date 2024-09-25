@@ -11,6 +11,7 @@ import java.util.ArrayList;
  * @version Feb 8, 2024
  */
 public class COMP132VsJavaAPI {
+    @SuppressWarnings("removal")
     public static void main(String[] args) {
 
         /**

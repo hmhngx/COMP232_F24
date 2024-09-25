@@ -10,6 +10,7 @@ public class COMP132SinglyLinkedListTest extends COMP132ArrayList{
      */
     @Before
     public void setUp() throws Exception {
+        @SuppressWarnings("unused")
         COMP132SinglyLinkedList myList = new COMP132SinglyLinkedList();
     }
 }

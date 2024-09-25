@@ -25,6 +25,7 @@ public class ObjectBox {
         value = newValue;
     }
 
+    @SuppressWarnings("removal")
     public static void main(String[] args) {
         ObjectBox obj = new ObjectBox("Test String");
 
