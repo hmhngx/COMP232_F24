@@ -17,7 +17,7 @@ public interface COMP132List {
     public int size();
 
     /**
-     * Append the specified Object to the end of the lsit. The size of the 
+     * Append the specified Object to the end of the list. The size of the 
      * list is increased by 1.
      * 
      * @param element

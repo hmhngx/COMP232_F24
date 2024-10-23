@@ -34,7 +34,7 @@ public class COMP132VsJavaAPI {
         /**
          * Using Java's ArrayList: The Java ArrayList is generic. The type of 
          * objects that can be stored in the list is specified by a type 
-         * parameter when the list is creaeted. This allows the compiler to 
+         * parameter when the list is created. This allows the compiler to 
          * detect many common type errors. It also means that casts are not 
          * required when retrieving items from the list.
          */
